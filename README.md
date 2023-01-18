@@ -1,7 +1,7 @@
 Hi 👋 My name is Suraif Muhammad
 ================================
 
-Computer Science UG | Blogger
+Data Science Enthusiast | Blogger | Computer Science Undergraduate
 -----------------------------
 
 I'm a 2nd year Computer Science Undergraduate passionate about technology. I'm an Alpha Microsoft Learn Student Ambassador, Postman Student Expert. I love writing, reading blogs during my free time.
