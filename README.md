@@ -67,4 +67,6 @@ src="https://img.shields.io/twitter/follow/Suraif_Muhammad?logo=twitter&style=fo
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Suraif16"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- Temporarily de activating the buymecoffee website -->
+<!-- <a href="https://www.buymeacoffee.com/Suraif16"> -->
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
