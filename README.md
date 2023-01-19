@@ -6,7 +6,7 @@ Data Science Enthusiast | Blogger | Computer Science Undergraduate
 
 I'm a 2nd year Computer Science Undergraduate passionate about technology. I'm an Alpha Microsoft Learn Student Ambassador, Postman Student Expert. I love writing, reading blogs during my free time.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithsam&label=Profile%20views&color=0e75b6&style=flat" alt="yasithsam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraif16&label=Profile%20views&color=0e75b6&style=flat" alt="Suraif16" /> </p>
 
 * 🌍  I'm based in Colombo
 * 🖥️  See my portfolio at [SuraifMuhammad](http://suraifmuhammad.com)
