@@ -1,7 +1,7 @@
 Hi 👋 My name is Suraif Muhammad
 ================================
 
-Data Science Enthusiast | Blogger | Computer Science Undergraduate
+Developer | Blogger | Computer Science Undergraduate
 -----------------------------
 
 I'm a 2nd year Computer Science Undergraduate passionate about technology. I'm an Alpha Microsoft Learn Student Ambassador, Postman Student Expert. I love writing, reading blogs during my free time.
@@ -12,7 +12,7 @@ I'm a 2nd year Computer Science Undergraduate passionate about technology. I'm a
 * 🖥️  See my portfolio at [SuraifMuhammad](http://suraifmuhammad.com)
 * ✉️  You can contact me at [muhammadsuraif2000@gmail.com](mailto:muhammadsuraif2000@gmail.com)
 * 🚀  I'm currently working on [NTSF project](http://github.com/Suraif16/NTSF-backend)
-* 🧠  I'm learning Java, Javascript currently
+* 🧠  I'm learning Flutter currently
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/Suraif16" target="_blank" rel="noreferrer"><img
