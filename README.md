@@ -1,10 +1,10 @@
 Hi 👋 My name is Suraif Muhammad
 ================================
 
-Developer | Blogger | Computer Science Undergraduate
+Software Developer | Tech Speaker | Blogger | B.Sc in Computer Science
 -----------------------------
 
-I'm a year Computer Science Undergraduate passionate about technology. I'm a Gold Microsoft Learn Student Ambassador, Postman Student Leader. I love writing, reading blogs during my free time.
+I'm a Computer Science graduate passionate about technology. I'm a Gold Microsoft Learn Student Ambassador, Postman Student Leader. I love writing, reading blogs during my free time.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraif16&label=Profile%20views&color=0e75b6&style=flat" alt="Suraif16" /> </p>
 
